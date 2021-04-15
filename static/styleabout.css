@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Hammersmith+One&display=swap');
+    
+#navbar{
+    
+   
+   
+}
+
+    
+#footer{
+    margin-top: 150px;
+}
+.container{
+    margin: 20px;
+    padding: 20px;
+    
+    color: crimson;
+}
+.container ul li{
+    list-style: square;
+    font-family: 'Hammersmith One', sans-serif;
+
+}
